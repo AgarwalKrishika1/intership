@@ -4,7 +4,7 @@ x=1
 print(f'{x} is  of type of {type(x).__name__}')
 x="hiii"
 print(f'{x} is  of type of {type(x).__name__}')
-x=2.11
+x=2.11123
 print(f'{x} is  of type of {type(x).__name__}')
 x=[1, 2, 3]
 print(f'{x} is  of type of {type(x).__name__}')
