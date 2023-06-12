@@ -10,15 +10,15 @@ if num > 0:
 print("end of if")
 
 print("if - else statement")
-num = input("enter number ")
-if num > str(0) or num == str(0):
+num = int(input("enter number "))
+if num > 0 or num == 0
     print("its positive")
 else:
     print("its negative")
 
 print("if-elif-else statement")
-num = input("enter number ")
-if num > str(0):
+num = int(input("enter number "))
+if num > 0:
     print("its positive")
 elif num == str(0):
     print("its zero")
